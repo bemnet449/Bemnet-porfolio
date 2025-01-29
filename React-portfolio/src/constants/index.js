@@ -23,7 +23,7 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A fully functional e-commerce website .",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
